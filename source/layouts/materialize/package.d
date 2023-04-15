@@ -1,1 +1,1 @@
-module layouts.materialize
+module layouts.materialize;
